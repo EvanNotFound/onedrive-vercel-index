@@ -59,6 +59,10 @@ module.exports = {
       name: 'Blog',
       link: 'https://www.evanluo.top/',
     },
+    {
+      name: 'Upload',
+      link: 'https://upload.evanluo.top/',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
