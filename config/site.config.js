@@ -61,7 +61,7 @@ module.exports = {
     },
     {
       name: 'Upload',
-      link: 'https://upload.evanluo.top/',
+      link: 'https://utils.evanluo.top/upload',
     },
   ],
 
